@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  
+}
+
+
+body{
+
+  margin-top: 10%;
+  background-image: url(bg.jpg.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+input{
+ font-size: 2rem;
+ width: 10%;
+
+}
+
+#diceimages img{
+
+  width: 10%;
+  height: 10%;
+  margin: 5px ;
+
+
+
+}
+
+#diceresult{
+
+  margin: 5px;
+}
+
+
